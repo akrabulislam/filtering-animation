@@ -1,6 +1,35 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Filtering Animation App
+
+![](https://github.com/akrabulislam/filtering-animation/blob/master/public/Filtering%20Animation%20Screenshots.png)
+
+
+
+## What is the use of this Repo
+### This Project is a Simple ReactJS Project which demonstrates the following
+
+- Creating multiple Components in React
+- Making HTTP calls
+- Using [Movie API](https://developers.themoviedb.org/3/getting-started/introduction)
+- Using [Framer-Motion](https://www.npmjs.com/package/framer-motion) for Animation 
+
+The project Template can be used to build bigger projects.
+
+
+## Live Application URL
+https://filter-animation.netlify.app
+
+
+## Prerequisites
+**Install Node JS**
+
+Refer to https://nodejs.org/en/ to install nodejs
+
+
+
+## Cloning and Running the Application in local 
+
+To deploy this project run
 
 ## Available Scripts
 
@@ -68,3 +97,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
