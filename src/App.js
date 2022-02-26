@@ -18,6 +18,7 @@ function App() {
     const movies = await data.json();
     setPopular(movies.results);
     setFiltered(movies.results);
+    
   };
   return (
     <div className="App">
