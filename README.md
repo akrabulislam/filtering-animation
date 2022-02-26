@@ -3,7 +3,7 @@
 
 ![](https://github.com/akrabulislam/filtering-animation/blob/master/public/Filtering%20Animation%20Screenshots.png)
 
-[![Watch the video](https://github.com/akrabulislam/filtering-animation/blob/master/public/Filtering%20Animation%20Screenshots.png)](https://github.com/akrabulislam/filtering-animation/blob/master/public/Filtering%20Animation%20video.mp4)
+[![Watch the video]](https://github.com/akrabulislam/filtering-animation/blob/master/public/Filtering%20Animation%20video.mp4)
 
 
 
