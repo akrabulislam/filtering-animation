@@ -18,10 +18,11 @@ function App() {
     const movies = await data.json();
     setPopular(movies.results);
     setFiltered(movies.results);
-    
+
   };
   return (
     <div className="App">
+      <h1>Simple Filter Animation App</h1>
       <Filter
         popular={popular}
         setFiltered={setFiltered}
