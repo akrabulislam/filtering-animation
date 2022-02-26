@@ -3,6 +3,8 @@
 
 ![](https://github.com/akrabulislam/filtering-animation/blob/master/public/Filtering%20Animation%20Screenshots.png)
 
+[![Watch the video](https://github.com/akrabulislam/filtering-animation/blob/master/public/Filtering%20Animation%20Screenshots.png)](https://www.awesomescreenshot.com/video/7608909?key=69031029bd3d30d8b9cf1dd622f44c1b)
+
 
 
 ## What is the use of this Repo
